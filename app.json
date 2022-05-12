@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "tozny-react-native-example",
+    "slug": "tozny-react-native-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.grantbi.toznyreactnativeexample"
+    },
+    "ios": {
+      "bundleIdentifier": "com.grantbi.toznyreactnativeexample"
+    }
+  },
+  "name": "tozny-react-native-example"
+}
